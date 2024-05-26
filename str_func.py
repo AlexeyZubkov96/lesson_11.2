@@ -1,4 +1,7 @@
 def capital_letter(line):
+    """
+    Строка состоящая из первой заглавной буквы
+    """
     return line.title()
 
 
